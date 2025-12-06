@@ -10,7 +10,7 @@ This dashboard showcases key performance metrics such as **total sales amount**,
 
 ## 🚀 Key Highlights
 
-| Metrics                   | Value    |
+| Metric                   | Value    |
 | ------------------------ | -------- |
 | 💰 **Total Amount**      | **100M** |
 | 👥 **Number of Buyers**  | **506K** |
